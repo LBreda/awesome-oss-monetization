@@ -17,6 +17,7 @@ Variants & Options:
 * [Patreon](https://www.patreon.com/)
 * [Flattr](https://flattr.com/)
 * [Github Sponsors](https://github.com/sponsors)
+* [Ko/fi](https://ko-fi.com/)
 * [Stripe](https://www.stripe.com/) (self-build)
 * [PayPal](https://www.paypal.com/) (self-build)
 
